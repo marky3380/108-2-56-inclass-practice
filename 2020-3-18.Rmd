@@ -1,5 +1,51 @@
 ---
 ---
+```{r}
+library(googlesheets4)
+library(dplyr)
+library(lubridate)
+```
+```{r}
+a <- 2
+a = 2 # = 與 <-同義
+```
+
+```{r}
+3 -> b
+```
+
+```{r}
+my_108_total_credits <- 15
+```
+
+```{r}
+_108_total_credits <- 15
+```
+
+```{r}
+108_total_credits <- 15
+```
+
+```{r}
+my_108_total_credits <- 15
+_108_total_credits <- 15
+108_total_credits <- 15
+_my_108_total_credits <- 15
+my.108.total_credits <- 15
+.108.total_credits <- 15 # 隱藏變數
+.my.108.total_credits <- 15
+我的108學年總學分數 <- 15
+`我的108學年總學分數` <- 15 # 特殊名稱處理，`不是名稱的一部份
+`.108.total_credits` <- 15
+```
+
+```{r}
+'我的年紀'<-20
+my_age<-我的年紀
+```
+
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
