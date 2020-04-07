@@ -1,0 +1,6 @@
+"0","library(jsonlite) # 不少同學這行會有Error，還記得如何排除嗎？"
+"0","toJSON(commit)"
+"1","{""author"":[""Martin老師"",""mtlin@gm.ntpu.edu.tw"",""2020-03-25T07:17:40Z""],""committer"":[""emilyluckey"",""emily007@gmail.com"",""2020-03-26T08:18:40Z""],""message"":[""update""]}"
+"1"," "
+"1","
+"

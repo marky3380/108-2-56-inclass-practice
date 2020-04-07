@@ -1,0 +1,20 @@
+"0","##github commit"
+"0","comit <- list("
+"0","  author1 = c("
+"0","  ""Martin老師"","
+"0","   ""mtlin@gm.ntpu.edu.tw"","
+"0","   ""2020-03-25T07:17:40Z""),"
+"0","  author2 = list("
+"0","  ""Martin老師"","
+"0","   ""mtlin@gm.ntpu.edu.tw"","
+"0","   ymd_hms(""2020-03-25T07:17:40Z""))"
+"2","錯誤: Incomplete expression: comit <- list(
+  author1 = c(
+  ""Martin?葦"",
+   ""mtlin@gm.ntpu.edu.tw"",
+   ""2020-03-25T07:17:40Z""),
+  author2 = list(
+  ""Martin?葦"",
+   ""mtlin@gm.ntpu.edu.tw"",
+   ymd_hms(""2020-03-25T07:17:40Z""))
+"

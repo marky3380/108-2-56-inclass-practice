@@ -1,0 +1,5 @@
+"0","library(httr)"
+"0","library(dplyr)"
+"0","GET(""https://api.github.com/repos/tpemartin/108-2-56-inclass-practice/commits"") %>%"
+"0","  content() %>%"
+"0","  View()"

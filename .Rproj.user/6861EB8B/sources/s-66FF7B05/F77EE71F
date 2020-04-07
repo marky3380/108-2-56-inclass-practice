@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586297729074.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F77EE71F",
+    "lastKnownWriteTime" : 2821075173728,
+    "last_content_update" : 1586297729074,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "b25ff203730e4817a839016d10b8dc76",
+        "name" : "小明108學年課表B",
+        "title" : "小明108學年課表B"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

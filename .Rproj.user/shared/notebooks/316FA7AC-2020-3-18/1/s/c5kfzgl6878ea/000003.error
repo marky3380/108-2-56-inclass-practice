@@ -1,0 +1,1 @@
+{"frames":[],"message":"錯誤: Incomplete expression: comit <- list(\n  author1 = c(\n  \"Martin<e8>葦\",\n   \"mtlin@gm.ntpu.edu.tw\",\n   \"2020-03-25T07:17:40Z\"),\n  author2 = list(\n  \"Martin<e8>葦\",\n   \"mtlin@gm.ntpu.edu.tw\",\n   ymd_hms(\"2020-03-25T07:17:40Z\"))\n"}
